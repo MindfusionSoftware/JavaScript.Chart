@@ -2,10 +2,7 @@
 
 ## About MindFusion.Charting
 
-The MindFusion.Charting library provides to **HTML5** / **JavaScript** applications the ability to create and display various kinds of **charts and gauges**. The component supports **bar, pie, doughnut, scatter, bubble, candlestick, line, area, radar and polar charts**. Many features of the chart output can be customized in a way that suits your project best. Charts can have different styles, colors, fonts and pictures. The control's programming model comprises more than 200 methods and properties.
-
-The product's web page is [https://mindfusion.dev/javascript-chart.html](https://mindfusion.dev/javascript-chart.html) and it is part of MindFusion Pack for JavaScript, which can be downloaded at [https://mindfusion.dev/javascript-pack.html](https://mindfusion.dev/javascript-pack.html).
-
+MindFusion's [JavaScript Charting Library](https://mindfusion.dev/javascript-chart.html), a part of [MindFusion.JavaScript Pack](https://mindfusion.dev/javascript-pack.html), provides to **HTML5** / **JavaScript** applications the ability to create and display various kinds of **charts and gauges**. The component supports **bar, pie, doughnut, scatter, bubble, candlestick, line, area, radar and polar charts**. Many features of the chart output can be customized in a way that suits your project best. Charts can have different styles, colors, fonts and pictures. The control's programming model comprises more than 200 methods and properties.
 
 ## Getting Started
 
